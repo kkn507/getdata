@@ -1,3 +1,4 @@
+library("plyr")
 dataDir <- "UCI HAR Dataset"
 bufferSize <- 100
 
